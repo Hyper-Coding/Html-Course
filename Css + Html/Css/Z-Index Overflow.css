@@ -1,0 +1,29 @@
+.background {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: black;
+    z-index: -1; /* Arkaplanı metnin altına yerleştirmek için */
+}
+
+.text {
+    position: relative;
+    z-index: 1; /* İçeriği arka planın üzerine yerleştirmek için */
+    text-align: center;
+    color: white;
+    padding-top: 20%;
+}
+
+.overflow{
+    background-color: gray;
+    color: black;
+    height: 100px;
+    width: 300px;
+    overflow: scroll;
+
+    /* Overflow Properties */
+    /*Visible-Hidden-Scroll*/       
+}
+

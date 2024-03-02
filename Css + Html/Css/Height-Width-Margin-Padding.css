@@ -1,0 +1,20 @@
+.site-banner{
+    background-color: gray;
+    padding: 200px;/*Inside*/
+    /*margin:200px;*//*Outside*/
+    color:white;
+    text-align: center;
+}
+
+.site-image-height-width{
+    background-color: black;
+    height: 480px;
+    width: 270px;
+    margin: 100px;
+    margin-top: 0px;
+    color: white;
+    text-align: center;
+    /*
+    margin:1000px;
+    */
+}

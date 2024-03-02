@@ -1,0 +1,17 @@
+/* Css Display */
+
+/*
+Inline
+Block
+Inline-Block
+Grid
+Inline-Grid
+Contents
+Flex
+Inline-Flex
+*/
+
+h1.display-h1{
+    background-color: aqua;
+    display: inline;
+}

@@ -1,0 +1,31 @@
+/*ID*/
+#header1id{    
+    color:aqua;
+}
+
+/*Class*/
+.all-p{ 
+    color:black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 14pt;
+}
+
+/*Element Class */
+h3.subtitle{
+    color:red;
+    font-size: 20pt;
+}
+
+/*All Elements*/
+*{
+    color:blue/*!important*/;
+}
+
+/*All Selected Element*/
+h4{
+    color:gray;
+}
+
+h5, h6{
+    color:green;
+}
